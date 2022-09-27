@@ -1,4 +1,5 @@
 # todo-list-vue
+My very very first Vue project. I used SCSS for styling and localStorage for storing datas.
 
 ## Project Setup
 
