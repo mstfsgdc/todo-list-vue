@@ -39,7 +39,6 @@
       }
 
       const loadTodos = () => {
-        console.log('here');
         const values = JSON.parse(localStorage.getItem('todos'));
         if(values) todos.value.push(...values);
       }
